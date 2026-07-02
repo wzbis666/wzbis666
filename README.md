@@ -178,22 +178,31 @@ Minecraft 服务器反作弊系统
 
 ## 📊 GitHub 统计
 
+<!-- 1. GitHub Stats -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wzbis666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=16213e&text_color=8b949e" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=wzbis666&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wzbis666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=16213e&text_color=8b949e&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=wzbis666&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
+<!-- 2. Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbis666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=wzbis666&theme=onestar&no-bg=true&no-frame=true&column=4&margin-w=8" alt="Trophies" height="170" />
+  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbis666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=8&count_private=true" alt="Top Languages" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbis666&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=5&count_private=true" alt="Languages Donut" />
 </div>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" width="100%" />
-</picture>
+<!-- 3. Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wzbis666&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8" alt="Trophies" width="100%" />
+</div>
+
+<!-- 4. Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
