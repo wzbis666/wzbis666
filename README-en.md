@@ -1,8 +1,5 @@
 <div align="center">
 
-[![中文](https://img.shields.io/badge/语言-中文-red?style=flat-square)](README.md)
-[![English](https://img.shields.io/badge/Lang-English-blue?style=flat-square)](README-en.md)
-
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=wzbis666&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Minecraft%20Server%20Engineer&descSize=18&descAlignY=52" width="100%"/>
 
@@ -12,6 +9,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/226467720?v=4" />
   <img src="https://avatars.githubusercontent.com/u/226467720?v=4" width="120" alt="Avatar" style="border-radius: 50%; border: 3px solid #e94560; margin-top: -60px;" />
 </picture>
+
+<!-- Language Toggle -->
+[![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge)](README-en.md)
 
 <h3>
   <a href="https://github.com/wzbis666?tab=followers">
