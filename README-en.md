@@ -143,7 +143,7 @@ Next-gen Minecraft Anti-Cheat System
 
 ### 🔒 [Anti-cheat-system](https://github.com/wzbis666/Anti-cheat-system)
 
-Minecraft服务器反作弊系统
+Minecraft Server Anti-Cheat System
 
 ![Python](https://img.shields.io/badge/Python-405489-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-372391-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
