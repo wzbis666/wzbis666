@@ -43,20 +43,15 @@
 
 ## 👋 关于我
 
-```typescript
-const wzbis666 = {
-  location: "中国 🇨🇳",
-  currentFocus: "Minecraft 反作弊系统",
-  languages: ["TypeScript", "Java", "Python", "Vue"],
-  interests: ["游戏服务器开发", "全栈Web", "安全"],
-  funFact: "我在 Minecraft 中筑起反作弊的墙，也在 Web 服务间架起连通的桥"
-};
-```
+**wzbis666** — 来自 🇨🇳 的全栈开发者与 Minecraft 服务器工程师
 
+- 📍 坐标：中国
 - 🔭 目前正在开发 **MCACS V2.0** — 新一代 Minecraft 反作弊系统
 - 🌱 正在探索 **TypeScript 生态**与**分布式系统设计**
 - 🛡️ 热衷于**服务端安全**和**反作弊机制**研究
-- ⚡ 趣事：我的反作弊系统在我睡觉时依然守护着 Minecraft 服务器 😴
+- 💻 技术语言：TypeScript · Java · Python · Vue
+- 🎮 兴趣领域：游戏服务器开发 · 全栈Web · 安全
+- ⚡ 趣事：我在 Minecraft 中筑起反作弊的墙，也在 Web 服务间架起连通的桥 😴
 
 ---
 

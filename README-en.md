@@ -43,20 +43,15 @@
 
 ## 👋 About Me
 
-```typescript
-const wzbis666 = {
-  location: "China 🇨🇳",
-  currentFocus: "Minecraft Anti-Cheat System",
-  languages: ["TypeScript", "Java", "Python", "Vue"],
-  interests: ["Game Server Development", "Full-Stack Web", "Security"],
-  funFact: "I build walls against cheaters in Minecraft — and bridges between services in web apps"
-};
-```
+**wzbis666** — Full-Stack Developer & Minecraft Server Engineer from 🇨🇳
 
+- 📍 Location: China
 - 🔭 Currently working on **MCACS V2.0** — next-gen Minecraft anti-cheat system
 - 🌱 Exploring **TypeScript ecosystem** & **distributed system design**
 - 🛡️ Passionate about **server-side security** and **anti-cheat mechanisms**
-- ⚡ Fun fact: My anti-cheat systems guard Minecraft servers while I sleep 😴
+- 💻 Languages: TypeScript · Java · Python · Vue
+- 🎮 Interests: Game Server Development · Full-Stack Web · Security
+- ⚡ Fun fact: I build walls against cheaters in Minecraft — and bridges between services in web apps 😴
 
 ---
 
