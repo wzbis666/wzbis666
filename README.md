@@ -35,7 +35,7 @@
 <!-- Navigation -->
 <div align="center">
 
-**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [🎬 电影](#-电影收藏) &nbsp;·&nbsp; [🎮 游戏](#-我的世界) &nbsp;·&nbsp; [💡 程序员](#-程序人生) &nbsp;·&nbsp; [📚 历史](#-历史文学) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
+**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [🎬 电影](#-电影收藏) &nbsp;·&nbsp; [🎮 游戏](#-我的世界) &nbsp;·&nbsp; [💡 程序员](#-程序人生) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
 
 </div>
 
@@ -509,97 +509,7 @@ Docker ░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📚 历史文学
-
-<table>
-<tr>
-<td width="50%">
-
-📕 **三国演义** — 罗贯中
-
-![Tag](https://img.shields.io/badge/标签-古典名著-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-东汉末年-1a1a2e?style=flat-square)
-
-> 权谋与忠义的交织，诸葛亮的"鞠躬尽瘁"是中华文化中士人精神的极致体现。每次重读都有新的感悟。
-
-</td>
-<td width="50%">
-
-📗 **史记** — 司马迁
-
-![Tag](https://img.shields.io/badge/标签-纪传体通史-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-上古至汉武-1a1a2e?style=flat-square)
-
-> "史家之绝唱，无韵之离骚"。司马迁以一人之力为中华文明立传，其笔力穿越两千年仍震撼人心。
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-📘 **人类简史** — 尤瓦尔·赫拉利
-
-![Tag](https://img.shields.io/badge/标签-历史科普-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-认知革命至今-1a1a2e?style=flat-square)
-
-> 从认知革命到人工智能，赫拉利用宏观视角审视人类发展，让程序员重新思考技术革命的深层意义。
-
-</td>
-<td width="50%">
-
-📙 **万历十五年** — 黄仁宇
-
-![Tag](https://img.shields.io/badge/标签-明史研究-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-明朝万历-1a1a2e?style=flat-square)
-
-> 大历史观下的细节剖析，一个帝国的衰败从不是突然崩塌，而是制度性溃败的缓慢蔓延。
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-📔 **活着** — 余华
-
-![Tag](https://img.shields.io/badge/标签-当代文学-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-近现代-1a1a2e?style=flat-square)
-
-> 福贵的一生告诉我们：活着本身就是意义。在苦难中坚韧，是生命最朴素也最伟大的力量。
-
-</td>
-<td width="50%">
-
-📒 **枪炮、病菌与钢铁** — 贾雷德·戴蒙德
-
-![Tag](https://img.shields.io/badge/标签-文明史-e94560?style=flat-square)
-![Era](https://img.shields.io/badge/时代-人类大历史-1a1a2e?style=flat-square)
-
-> 地理决定论视角下的文明兴衰，环境因素而非人种差异决定了文明的发展轨迹，颠覆认知。
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>📜 历史兴趣点</summary>
-
-| 主题 | 兴趣方向 | 感悟 |
-|:-----|:---------|:-----|
-| 三国时期 | 诸葛亮的治国理念与技术创新 | 木牛流马是最早的"自动化"物流系统 |
-| 工业革命 | 蒸汽机到电力的技术跃迁 | 每次技术革命都重塑了社会阶层 |
-| 冷战时期 | 太空竞赛与计算机诞生 | 军事需求催生了互联网和计算机科学 |
-| 中国改革开放 | 技术引进与自主创新的平衡 | 后发优势与核心技术自主的永恒矛盾 |
-
-</details>
-
-<details>
-<summary>✍️ 阅读感悟</summary>
-
-> 读书是与古今智者的跨时空对话。历史不是过去式的注脚，而是未来的预演。技术的每一次飞跃，都能在历史中找到相似的轨迹 — 从造纸术到互联网，信息的传播方式决定了文明的形态。
-
-</details>
-
----
+## 📬 联系方式
 
 <div align="center">
 
