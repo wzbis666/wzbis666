@@ -35,7 +35,7 @@
 <!-- Navigation -->
 <div align="center">
 
-**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [🎬 电影](#-电影收藏) &nbsp;·&nbsp; [🎮 游戏](#-游戏世界) &nbsp;·&nbsp; [💡 程序员](#-程序人生) &nbsp;·&nbsp; [📚 历史](#-历史文学) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
+**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [🎬 电影](#-电影收藏) &nbsp;·&nbsp; [🎮 游戏](#-我的世界) &nbsp;·&nbsp; [💡 程序员](#-程序人生) &nbsp;·&nbsp; [📚 历史](#-历史文学) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
 
 </div>
 
@@ -291,82 +291,151 @@ Minecraft 服务器反作弊系统
 
 ---
 
-## 🎮 游戏世界
+## 🎮 我的世界
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=28&pause=1000&color=62B47A&center=true&vCenter=true&random=false&width=600&lines=%E2%8F%8F%EF%B8%8F+Welcome+to+Minecraft+%E2%8F%8F%EF%B8%8F;+%22It%27s+dangerous+to+go+alone!%22" alt="Minecraft Banner" />
+
+</div>
+
+<!-- Block-Style Stats -->
+<div align="center">
+
+![Version](https://img.shields.io/badge/%E2%AC%9B%EF%B8%8F_Edition-Java_1.21-62B47A?style=for-the-badge&logoColor=white)
+![Hours](https://img.shields.io/badge/%E2%8F%B0_Playtime-3000h%2B-8B4513?style=for-the-badge)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Online-brightgreen?style=for-the-badge)
+![Role](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Role-Server_Dev-e94560?style=for-the-badge)
+
+</div>
+
+### 🧱 游戏模式
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-⛏️ **Minecraft**
+#### ⚔️ 生存模式 Survival
 
-![Platform](https://img.shields.io/badge/平台-PC%2FJava-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-3000h%2B-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-正在游玩-brightgreen?style=flat-square)
+![Mode](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_Hardcore-Do_or_Die-FF4444?style=flat-square)
+![Achievement](https://img.shields.io/badge/Achievement-击败末影龙%F0%9F%90%89-4AEDC4?style=flat-square)
+![Advancement](https://img.shields.io/badge/Advancement-获得凋灵之星%E2%AD%90-FFD700?style=flat-square)
 
-> 不只是游戏，更是我的开发平台 — 反作弊系统、服务器插件、自动化运维都从这里开始。
-
-</td>
-<td width="50%">
-
-⚔️ **艾尔登法环**
-
-![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-120h-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
-
-> 宫崎英高的开放世界巅峰，每一次死亡都是对自身极限的重新定义。
+> 从零开始，一把木镐开局。在 Hardcore 模式下，每一次失误都是永久的。建筑红石农场自动化，把生存玩成工业革命。
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="50%">
 
-🌍 **文明6**
+#### 🏗️ 创造模式 Creative
 
-![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-500h-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-间歇游玩-orange?style=flat-square)
+![Mode](https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F_Creative-Unlimited-4AEDC4?style=flat-square)
+![Scale](https://img.shields.io/badge/Scale-大型建筑-9B59B6?style=flat-square)
+![Style](https://img.shields.io/badge/Style-中世纪%2F蒸汽朋克-8B4513?style=flat-square)
 
-> 再来一回合...天亮了。策略与历史的完美结合。
-
-</td>
-<td width="50%">
-
-🎯 **赛博朋克2077**
-
-![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-80h-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
-
-> 夜之城的霓虹灯下，是对技术与人性的深刻反思。
+> 无限方块，无限可能。从中世纪城堡到蒸汽朋克工厂，每一座建筑都是对空间的重新定义。
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-🧩 **传送门2**
+#### ⚡ 红石工程 Redstone
 
-![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-30h-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
+![Level](https://img.shields.io/badge/Level-高级工程师-FF6600?style=flat-square)
+![Build](https://img.shields.io/badge/Build-自动农场-62B47A?style=flat-square)
+![Logic](https://img.shields.io/badge/Logic-计算器%2F_CPU-FFD700?style=flat-square)
 
-> 程序员思维的最佳训练场，每个谜题都是一次逻辑重构。
+> 红石就是 Minecraft 里的电路。自动刷怪塔、物品分类器、甚至用红石搭建 CPU — 这是程序员的浪漫。
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-🏰 **泰拉瑞亚**
+#### 🛡️ 服务器开发 Server Dev
 
-![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
-![Hours](https://img.shields.io/badge/游戏时长-200h-e94560?style=flat-square)
-![Status](https://img.shields.io/badge/状态-间歇游玩-orange?style=flat-square)
+![Plugin](https://img.shields.io/badge/Plugin-Spigot%2FBukkit-ED8105?style=flat-square)
+![Lang](https://img.shields.io/badge/Lang-Java%2FTypeScript-3178C6?style=flat-square)
+![AntiCheat](https://img.shields.io/badge/System-MCACS_V2.0-e94560?style=flat-square)
 
-> 2D沙盒的极致，建筑、战斗、探索三位一体。
+> Minecraft 不只是游戏，更是我的开发平台。反作弊系统、服务器插件、自动化运维 — 从玩家到开发者的蜕变。
 
 </td>
 </tr>
 </table>
+
+### 🏆 成就墙
+
+<div align="center">
+
+| 成就 | 描述 | 难度 |
+|:-----|:-----|:-----|
+| 🐉 屠龙者 | 首次击败末影龙 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-medium-FFD700?style=flat-square) |
+| 💀 凋灵杀手 | 击败凋灵并获取星 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-medium-FFD700?style=flat-square) |
+| 🏰 建筑大师 | 单体建筑方块数 > 10万 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-hard-FF4444?style=flat-square) |
+| ⚡ 红石CPU | 用红石搭建可运行的计算器 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-hard-FF4444?style=flat-square) |
+| 🛡️ 反作弊开发者 | 部署自研反作弊系统 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-hard-FF4444?style=flat-square) |
+| 🌌 末地探索者 | 找到所有末地城 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85-easy-62B47A?style=flat-square) |
+| 💎 钻石大亨 | 收集超过 1 组钻石块 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-medium-FFD700?style=flat-square) |
+| 🚂 铁路大亨 | 铁轨铺设超过 10000 格 | ![Stars](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-hard-FF4444?style=flat-square) |
+
+</div>
+
+### 🎨 喜爱的方块
+
+<div align="center">
+
+![Diamond](https://img.shields.io/badge/%F0%9F%92%8E_Diamond_Block-4AEDC4?style=flat-square)
+![Gold](https://img.shields.io/badge/%F0%9F%9F%A1_Gold_Block-FFD700?style=flat-square)
+![Emerald](https://img.shields.io/badge/%F0%9F%9F%A2_Emerald_Block-50C878?style=flat-square)
+![Netherite](https://img.shields.io/badge/%F0%9F%96%A4_Netherite-4A4A4A?style=flat-square)
+![Redstone](https://img.shields.io/badge/%F0%9F%94%B4_Redstone-FF4444?style=flat-square)
+![Obsidian](https://img.shields.io/badge/%F0%9F%96%A4_Obsidian-1a1a2e?style=flat-square)
+![Quartz](https://img.shields.io/badge/%F0%9F%A4%8D_Quartz-F5F5DC?style=flat-square)
+![Lapis](https://img.shields.io/badge/%F0%9F%92%99_Lapis_Lazuli-1E5FBF?style=flat-square)
+
+</div>
+
+### 🍎 日常背包
+
+<details>
+<summary>🎒 查看背包物品</summary>
+
+| 物品栏 | 物品 | 附魔 | 用途 |
+|:-------|:-----|:-----|:-----|
+| 1 | ⚔️ 钻石剑 | 锋利 V · 火焰附加 II · 经验修补 | 日常战斗 |
+| 2 | ⛏️ 钻石镐 | 效率 V · 经验修补 · 耐久 III | 挖矿主力 |
+| 3 | 🏹 弓 | 力量 V · 火焰 · 无限 · 经验修补 | 远程输出 |
+| 4 | 🛡️ 盾牌 | 经验修补 | 格挡防御 |
+| 5 | 🍎 金苹果 | — | 紧急回血 |
+| 6 | 💎 钻石块 ×64 | — | 交易储备 |
+| 7 | 🧪 药水 | 迅捷 II · 力量 II | Buff 供给 |
+| 8 | 🗺️ 地图 | — | 探索导航 |
+| 9 | 🍖 熟牛排 ×64 | — | 食物补给 |
+
+</details>
+
+<details>
+<summary>📍 常驻坐标</summary>
+
+```
+  🏠 主基地      →  X: 0      Z: 0      (出生点)
+  🐉 末地传送门  →  X: 0      Z: 0      (要塞)
+  ⛏️ 钻石矿层    →  Y: -59              (深层钻石)
+  🏰 建筑工地    →  X: 1024   Z: -512   (大型项目)
+  🚂 虚空农场    →  X: 2048   Z: 0      (刷怪塔)
+```
+
+</details>
+
+<details>
+<summary>💡 Minecraft 哲学</summary>
+
+> "Minecraft is not a game about blocks. It's a game about what you build with them."
+
+> 在方块世界里，每一步都是创造。从一个泥土小屋到红石 CPU，唯一的限制是想象力。
+
+> 服务器开发让我明白：游戏不仅是娱乐，更是一个完整的分布式系统 — 并发、安全、性能优化，一个不少。
+
+</details>
 
 ---
 
