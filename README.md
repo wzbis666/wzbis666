@@ -35,7 +35,7 @@
 <!-- Navigation -->
 <div align="center">
 
-**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
+**[👋 关于](#-关于我) &nbsp;·&nbsp; [🛠️ 技能](#%EF%B8%8F-技术栈) &nbsp;·&nbsp; [🚀 项目](#-精选项目) &nbsp;·&nbsp; [📊 统计](#-github-统计) &nbsp;·&nbsp; [🎬 电影](#-电影收藏) &nbsp;·&nbsp; [🎮 游戏](#-游戏世界) &nbsp;·&nbsp; [💡 程序员](#-程序人生) &nbsp;·&nbsp; [📚 历史](#-历史文学) &nbsp;·&nbsp; [📬 联系](#-联系方式)**
 
 </div>
 
@@ -206,7 +206,331 @@ Minecraft 服务器反作弊系统
 
 ---
 
-## 📬 联系方式
+## 🎬 电影收藏
+
+<table>
+<tr>
+<td width="50%">
+
+🎭 **盗梦空间** (2010)
+
+![Rating](https://img.shields.io/badge/评分-10%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-科幻悬疑-1a1a2e?style=flat-square)
+
+> 诺兰的梦境嵌套结构令人叹为观止，每一层都有独立的时间流速，是电影叙事的极致。
+
+</td>
+<td width="50%">
+
+🎬 **黑客帝国** (1999)
+
+![Rating](https://img.shields.io/badge/评分-10%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-赛博朋克-1a1a2e?style=flat-square)
+
+> 红蓝药丸的选择至今仍是程序员的终极哲学命题。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🎥 **星际穿越** (2014)
+
+![Rating](https://img.shields.io/badge/评分-9.5%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-硬科幻-1a1a2e?style=flat-square)
+
+> 五维空间的书架场景让我重新理解了时间与爱的维度。
+
+</td>
+<td width="50%">
+
+🎭 **教父** (1972)
+
+![Rating](https://img.shields.io/badge/评分-9.5%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-黑帮史诗-1a1a2e?style=flat-square)
+
+> 不是个人恩怨，纯粹是生意。权力与家族的经典叙事。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🎞️ **银翼杀手2049** (2017)
+
+![Rating](https://img.shields.io/badge/评分-9%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-赛博朋克-1a1a2e?style=flat-square)
+
+> 视觉美学与存在主义的完美融合，AI自我意识的终极拷问。
+
+</td>
+<td width="50%">
+
+🍿 **指环王：王者归来** (2003)
+
+![Rating](https://img.shields.io/badge/评分-9%2F10-e94560?style=flat-square)
+![Genre](https://img.shields.io/badge/类型-史诗奇幻-1a1a2e?style=flat-square)
+
+> 史诗级的战争场面与对友情的歌颂，永恒的经典。
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📦 查看更多电影推荐</summary>
+
+| 电影 | 年份 | 评分 | 感悟 |
+|:-----|:-----|:-----|:-----|
+| 楚门的世界 | 1998 | 9/10 | 我们每个人都可能活在自己的穹顶之下 |
+| 2001太空漫游 | 1968 | 9/10 | 库布里克对人类进化的终极想象 |
+| 低俗小说 | 1994 | 8.5/10 | 非线性叙事的教科书 |
+| 让子弹飞 | 2010 | 8.5/10 | 华语黑色幽默的巅峰之作 |
+
+</details>
+
+---
+
+## 🎮 游戏世界
+
+<table>
+<tr>
+<td width="50%">
+
+⛏️ **Minecraft**
+
+![Platform](https://img.shields.io/badge/平台-PC%2FJava-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-3000h%2B-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-正在游玩-brightgreen?style=flat-square)
+
+> 不只是游戏，更是我的开发平台 — 反作弊系统、服务器插件、自动化运维都从这里开始。
+
+</td>
+<td width="50%">
+
+⚔️ **艾尔登法环**
+
+![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-120h-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
+
+> 宫崎英高的开放世界巅峰，每一次死亡都是对自身极限的重新定义。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🌍 **文明6**
+
+![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-500h-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-间歇游玩-orange?style=flat-square)
+
+> 再来一回合...天亮了。策略与历史的完美结合。
+
+</td>
+<td width="50%">
+
+🎯 **赛博朋克2077**
+
+![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-80h-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
+
+> 夜之城的霓虹灯下，是对技术与人性的深刻反思。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🧩 **传送门2**
+
+![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-30h-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-已通关-blue?style=flat-square)
+
+> 程序员思维的最佳训练场，每个谜题都是一次逻辑重构。
+
+</td>
+<td width="50%">
+
+🏰 **泰拉瑞亚**
+
+![Platform](https://img.shields.io/badge/平台-PC-62B47A?style=flat-square)
+![Hours](https://img.shields.io/badge/游戏时长-200h-e94560?style=flat-square)
+![Status](https://img.shields.io/badge/状态-间歇游玩-orange?style=flat-square)
+
+> 2D沙盒的极致，建筑、战斗、探索三位一体。
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 程序人生
+
+### 📐 编程哲学
+
+> "代码就像幽默 — 如果你必须解释它，那它就不够好。" — Cory House
+
+> "先让它工作，再让它正确，最后让它快速。" — Kent Beck
+
+> "最好的错误信息是那些不会出现的错误。" — Thomas Fuchs
+
+### 🧰 开发工具链
+
+<div align="center">
+
+| 类别 | 工具 | 用途 |
+|:-----|:-----|:-----|
+| IDE | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) | 日常开发主力 |
+| 版本控制 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | 代码管理与协作 |
+| 容器化 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 环境隔离与部署 |
+| 终端 | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | 命令行操作 |
+| API测试 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | 接口调试与文档 |
+| 数据库 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | 数据存储与缓存 |
+
+</div>
+
+### 📊 技术能力雷达
+
+```
+          TypeScript
+              ████████████░░░░ 75%
+              ████░░░░░░░░░░░░
+         Java ░░░░░░░░░░░░░░░░
+    █████████░░░░░░░░░░░░░░░░ 60%
+Python ░░░░░░░░░░░░░░░░░░░░░░
+    █████████░░░░░░░░░░░░░░░░ 60%
+  Vue  ░░░░░░░░░░░░░░░░░░░░░░
+    ██████████░░░░░░░░░░░░░░░ 65%
+Docker ░░░░░░░░░░░░░░░░░░░░░░
+    ████████░░░░░░░░░░░░░░░░░ 50%
+```
+
+### 🔗 技术资源
+
+<details>
+<summary>📖 推荐技术书籍</summary>
+
+| 书名 | 作者 | 推荐理由 |
+|:-----|:-----|:---------|
+| 代码整洁之道 | Robert C. Martin | 程序员的职业素养入门必读 |
+| 深入理解计算机系统 | Randal E. Bryant | 从程序员视角理解硬件与软件的桥梁 |
+| 设计模式 | GoF | 面向对象设计的经典范式 |
+| 重构 | Martin Fowler | 改善既有代码设计的系统方法 |
+| 人月神话 | Frederick Brooks | 软件工程永恒的经典智慧 |
+
+</details>
+
+<details>
+<summary>🌐 常逛的技术社区</summary>
+
+| 社区 | 链接 | 主要用途 |
+|:-----|:-----|:---------|
+| GitHub | https://github.com | 开源项目与代码托管 |
+| Stack Overflow | https://stackoverflow.com | 技术问答与问题排查 |
+| 掘金 | https://juejin.cn | 中文技术文章与分享 |
+| V2EX | https://v2ex.com | 程序员交流与讨论 |
+
+</details>
+
+---
+
+## 📚 历史文学
+
+<table>
+<tr>
+<td width="50%">
+
+📕 **三国演义** — 罗贯中
+
+![Tag](https://img.shields.io/badge/标签-古典名著-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-东汉末年-1a1a2e?style=flat-square)
+
+> 权谋与忠义的交织，诸葛亮的"鞠躬尽瘁"是中华文化中士人精神的极致体现。每次重读都有新的感悟。
+
+</td>
+<td width="50%">
+
+📗 **史记** — 司马迁
+
+![Tag](https://img.shields.io/badge/标签-纪传体通史-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-上古至汉武-1a1a2e?style=flat-square)
+
+> "史家之绝唱，无韵之离骚"。司马迁以一人之力为中华文明立传，其笔力穿越两千年仍震撼人心。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+📘 **人类简史** — 尤瓦尔·赫拉利
+
+![Tag](https://img.shields.io/badge/标签-历史科普-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-认知革命至今-1a1a2e?style=flat-square)
+
+> 从认知革命到人工智能，赫拉利用宏观视角审视人类发展，让程序员重新思考技术革命的深层意义。
+
+</td>
+<td width="50%">
+
+📙 **万历十五年** — 黄仁宇
+
+![Tag](https://img.shields.io/badge/标签-明史研究-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-明朝万历-1a1a2e?style=flat-square)
+
+> 大历史观下的细节剖析，一个帝国的衰败从不是突然崩塌，而是制度性溃败的缓慢蔓延。
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+📔 **活着** — 余华
+
+![Tag](https://img.shields.io/badge/标签-当代文学-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-近现代-1a1a2e?style=flat-square)
+
+> 福贵的一生告诉我们：活着本身就是意义。在苦难中坚韧，是生命最朴素也最伟大的力量。
+
+</td>
+<td width="50%">
+
+📒 **枪炮、病菌与钢铁** — 贾雷德·戴蒙德
+
+![Tag](https://img.shields.io/badge/标签-文明史-e94560?style=flat-square)
+![Era](https://img.shields.io/badge/时代-人类大历史-1a1a2e?style=flat-square)
+
+> 地理决定论视角下的文明兴衰，环境因素而非人种差异决定了文明的发展轨迹，颠覆认知。
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📜 历史兴趣点</summary>
+
+| 主题 | 兴趣方向 | 感悟 |
+|:-----|:---------|:-----|
+| 三国时期 | 诸葛亮的治国理念与技术创新 | 木牛流马是最早的"自动化"物流系统 |
+| 工业革命 | 蒸汽机到电力的技术跃迁 | 每次技术革命都重塑了社会阶层 |
+| 冷战时期 | 太空竞赛与计算机诞生 | 军事需求催生了互联网和计算机科学 |
+| 中国改革开放 | 技术引进与自主创新的平衡 | 后发优势与核心技术自主的永恒矛盾 |
+
+</details>
+
+<details>
+<summary>✍️ 阅读感悟</summary>
+
+> 读书是与古今智者的跨时空对话。历史不是过去式的注脚，而是未来的预演。技术的每一次飞跃，都能在历史中找到相似的轨迹 — 从造纸术到互联网，信息的传播方式决定了文明的形态。
+
+</details>
+
+---
 
 <div align="center">
 
