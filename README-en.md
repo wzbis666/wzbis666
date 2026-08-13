@@ -1,232 +1,125 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=wzbis666&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Minecraft%20Server%20Engineer&descSize=18&descAlignY=52" width="100%"/>
-
-<!-- Avatar & Intro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/226467720?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/226467720?v=4" />
-  <img src="https://avatars.githubusercontent.com/u/226467720?v=4" width="120" alt="Avatar" style="border-radius: 50%; border: 3px solid #e94560; margin-top: -60px;" />
+  <source media="(max-width: 600px)" srcset="./assets/profile/banner-en-mobile.png">
+  <img src="./assets/profile/banner-en.png" width="100%" alt="WZB — Anti-cheat systems engineer; detect, verify, protect">
 </picture>
 
-<!-- Language Toggle -->
-[![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge)](README-en.md)
+<br>
 
-<h3>
-  <a href="https://github.com/wzbis666?tab=followers">
-    <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/wzbis666?color=236ad3&label=Follow&logo=person-add&logoColor=white&style=for-the-badge&labelColor=236ad3"/>
-  </a>
-  <a href="https://github.com/wzbis666?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars" src="https://custom-icon-badges.demolab.com/github/stars/wzbis666?color=55960c&style=for-the-badge&logo=star&labelColor=55960c"/>
-  </a>
-</h3>
+[![中文](https://img.shields.io/badge/中文-切换-F04444?style=flat-square)](./README.md)
+[![English](https://img.shields.io/badge/English-Current-4AE168?style=flat-square)](./README-en.md)
+[![GitHub followers](https://img.shields.io/github/followers/wzbis666?style=flat-square&color=4AE168&labelColor=0D141A)](https://github.com/wzbis666?tab=followers)
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&random=false&width=500&height=40&lines=%F0%9F%8E%AE+Minecraft+Server+Developer;%F0%9F%9B%A1%EF%B8%8F+Anti-Cheat+System+Builder;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%90%8D+Python+%7C+Java+%7C+TypeScript" alt="Typing SVG" />
+**Minecraft server security × anti-cheat operations × full-stack systems**
+
+I build server-side detection, verifiable evidence pipelines, and operator consoles to make anti-cheat systems more accurate, transparent, and easier to run.
+
+[Flagship](#flagship) · [Toolkit](#toolkit) · [Selected builds](#selected-builds) · [Contact](#contact)
+
+</div>
+
+## STATUS
+
+- Building **[MCACS V2.0](https://github.com/wzbis666/MCACS-V2.0)**, an open-source anti-cheat operations console for Paper servers.
+- Focused on **behavior detection, evidence engineering, reliable actions, low-false-positive policy, and real-time visualization**.
+- Working mainly with **TypeScript, Java, Python, and Vue**, shipping deployable systems with Docker.
+- Design principle: collect trustworthy signals, verify the evidence, then execute auditable actions.
+
+## FLAGSHIP
+
+<a href="https://github.com/wzbis666/MCACS-V2.0">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/mcacs-en-mobile.png">
+    <img src="./assets/profile/mcacs-en.png" width="100%" alt="MCACS V2.0 anti-cheat operations pipeline: analyze, verify, dispatch, and observe">
+  </picture>
 </a>
 
-</div>
+### [MCACS V2.0 — Minecraft Anti-Cheat Operations Console](https://github.com/wzbis666/MCACS-V2.0)
 
----
+MCACS connects Paper events, detection evidence, investigation cases, policy decisions, and operator actions into one traceable workflow. A Paper plugin collects signals and executes actions, a Node.js control layer manages evidence and policy, and a Three.js console provides real-time visualization.
 
-<!-- Navigation -->
+[![CI](https://github.com/wzbis666/MCACS-V2.0/actions/workflows/ci.yml/badge.svg)](https://github.com/wzbis666/MCACS-V2.0/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/wzbis666/MCACS-V2.0?display_name=tag&sort=semver&style=flat-square&color=4AE168&labelColor=0D141A)](https://github.com/wzbis666/MCACS-V2.0/releases/latest)
+[![Paper](https://img.shields.io/badge/Paper-1.20.x-F7C873?style=flat-square&labelColor=0D141A)](https://github.com/wzbis666/MCACS-V2.0/blob/main/docs/COMPATIBILITY.md)
+[![Docker](https://img.shields.io/badge/GHCR-mcacs-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D141A)](https://github.com/wzbis666/MCACS-V2.0/pkgs/container/mcacs)
+[![License](https://img.shields.io/badge/License-MIT-4AE168?style=flat-square&labelColor=0D141A)](https://github.com/wzbis666/MCACS-V2.0/blob/main/LICENSE)
+
+- Detection intake: Grim events plus independent X-Ray analysis, normalized into seven behavior categories.
+- Evidence and cases: time-window buffers, evidence timelines, investigation cases, and human review.
+- Risk decisions: VP, player baselines, storm gates, grace periods, and hot-reloadable policy.
+- Reliable actions: Paper ACK/NACK, retries, `actionId` idempotency, and reconnect synchronization.
+- Operations UI: a Three.js 3D town, case panels, evidence playback, audit trails, and mobile controls.
+
+[Source](https://github.com/wzbis666/MCACS-V2.0) · [Latest release](https://github.com/wzbis666/MCACS-V2.0/releases/latest) · [Deployment guide](https://github.com/wzbis666/MCACS-V2.0/blob/main/DEPLOY.md) · [Contributing](https://github.com/wzbis666/MCACS-V2.0/blob/main/CONTRIBUTING.md)
+
+## TOOLKIT
+
 <div align="center">
 
-**[👋 About](#-about-me) &nbsp;·&nbsp; [🛠️ Skills](#%EF%B8%8F-tech-stack) &nbsp;·&nbsp; [🚀 Projects](#-featured-projects) &nbsp;·&nbsp; [📊 Stats](#-github-stats) &nbsp;·&nbsp; [📬 Contact](#-contact)**
+[![Core toolkit](https://skillicons.dev/icons?i=ts,java,python,vue,nodejs,vite,docker,git,powershell&theme=dark&perline=9)](https://skillicons.dev)
+
+`TypeScript` · `Java` · `Python` · `Vue` · `Node.js` · `Vite` · `Docker` · `Git` · `PowerShell`
 
 </div>
 
----
+## ACTIVE LOG
 
-## 👋 About Me
+```text
+[ PROCESSING ] Expanding movement, combat, and inventory detection modules
+[ VERIFIED   ] Strengthening evidence timelines, case review, and audit boundaries
+[ ACTION     ] Improving Paper action reliability, idempotency, and reconnect sync
+[ MONITORING ] Refining the real-time 3D console and mobile operator experience
+```
 
-**wzbis666** — Full-Stack Developer & Minecraft Server Engineer from 🇨🇳
+## SELECTED BUILDS
 
-- 📍 Location: China
-- 🔭 Currently working on **MCACS V2.0** — next-gen Minecraft anti-cheat system
-- 🌱 Exploring **TypeScript ecosystem** & **distributed system design**
-- 🛡️ Passionate about **server-side security** and **anti-cheat mechanisms**
-- 💻 Languages: TypeScript · Java · Python · Vue
-- 🎮 Interests: Game Server Development · Full-Stack Web · Security
-- ⚡ Fun fact: I build walls against cheaters in Minecraft — and bridges between services in web apps 😴
+### [Anti-cheat-system](https://github.com/wzbis666/Anti-cheat-system)
 
----
+An earlier full-stack Minecraft server anti-cheat system with a Java plugin, Spring Boot backend, Vue admin console, real-time data, and Docker orchestration.
 
-## 🛠️ Tech Stack
+`Java` · `Spring Boot` · `Vue` · `MySQL` · `Docker`
 
-<!-- Languages & Frameworks -->
-<table>
-<tr>
-<td align="center" width="25%">
+### [home-page](https://github.com/wzbis666/home-page)
 
-### Languages
+A responsive personal homepage built with Vue, Vuetify, and Vite, with configurable themes, backgrounds, music, and online deployment.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`Vue` · `Vuetify` · `Vite` · `Vercel`
 
-</td>
-<td align="center" width="25%">
+## ACTIVITY
 
-### Frontend
+<div align="center">
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" width="100%" alt="GitHub contribution animation">
+</picture>
 
-</td>
-<td align="center" width="25%">
+</div>
 
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### Game Dev
-
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-ED8105?style=flat-square&logo=buymeacoffee&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-FF6600?style=flat-square&logo=java&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<!-- Skill Progress Bars -->
 <details>
-<summary>📊 Skill Proficiency Details</summary>
+<summary><strong>BEYOND CODE</strong></summary>
 
-| Skill | Proficiency |
-|:------|:------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Python](https://skillicons.dev/icons?i=python) █████████░░░░░░░ 60% |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Java](https://skillicons.dev/icons?i=java) █████████░░░░░░░ 60% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![TypeScript](https://skillicons.dev/icons?i=typescript) ████████████░░░░ 75% |
-| ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![Vue](https://skillicons.dev/icons?i=vue) ██████████░░░░░░ 65% |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) ████████░░░░░░░░ 50% |
+I enjoy Minecraft survival, redstone engineering, and server ecosystems, as well as science-fiction and crime films. Some favorites are *Inception*, *The Matrix*, *Interstellar*, *The Godfather*, and *Blade Runner 2049*.
+
+> From placing blocks to protecting servers.
 
 </details>
 
----
+## CONTACT
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ [MCACS-V2.0](https://github.com/wzbis666/MCACS-V2.0)
-
-Next-gen Minecraft Anti-Cheat System
-
-![TypeScript](https://img.shields.io/badge/TypeScript-607403-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-90059-orange?style=flat-square)
-![Docker](https://img.shields.io/badge/Dockerized-✓-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-> Redesigned from the ground up with TypeScript & Java, featuring enhanced detection algorithms and Docker-based deployment.
-
-</td>
-<td width="50%">
-
-### 🔒 [Anti-cheat-system](https://github.com/wzbis666/Anti-cheat-system)
-
-Minecraft Server Anti-Cheat System
-
-![Python](https://img.shields.io/badge/Python-405489-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-372391-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-328456-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-> Full-stack anti-cheat solution: Python detection engine + Java Bukkit plugin + Vue management dashboard.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [Home Page](https://github.com/wzbis666/home-page)
-
-Personal Website & Portfolio
-
-![Vue](https://img.shields.io/badge/Vue-71343-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-29214-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-> Personal homepage built with Vue.js, featuring responsive design and smooth interactions.
-
-</td>
-<td width="50%">
-
-### 📌 More Coming Soon...
-
-![Working](https://img.shields.io/badge/Status-Building-e94560?style=flat-square)
-
-> New projects are always in the pipeline. Stay tuned!
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<!-- 1. GitHub Stats -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wzbis666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=16213e&text_color=8b949e&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=wzbis666&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<!-- 2. Top Languages -->
-<div align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbis666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=8&count_private=true" alt="Top Languages" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbis666&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=8b949e&langs_count=5&count_private=true" alt="Languages Donut" />
-</div>
-
-<!-- 3. Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wzbis666&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8" alt="Trophies" width="100%" />
-</div>
-
-<!-- 4. Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wzbis666/wzbis666/output/github-snake-dark.svg" width="100%" />
-</picture>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-3378621722%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3378621722@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-wzbis666-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzbis666)
-
-</div>
+- GitHub: [@wzbis666](https://github.com/wzbis666)
+- Email: [3378621722@qq.com](mailto:3378621722@qq.com)
 
 ---
 
 <div align="center">
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=wzbis666&style=for-the-badge&color=e94560&label=PROFILE+VIEWS" alt="Profile Views" />
+This profile combines selected vanilla Minecraft Java Edition textures with original layouts and typography. The repository does not distribute the game client or a raw resource pack.
 
-<br/><br/>
+**NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG STUDIOS OR MICROSOFT.**
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%"/>
+The Minecraft name, brand, and game assets belong to their respective rights holders.
 
 </div>
